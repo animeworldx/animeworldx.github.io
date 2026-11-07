@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "project": "project-13055341",
+  "generated_at": "2026-08-20 12:46:24",
+  "chrome": "E:\\playwright-browsers\\chromium-1187\\chrome-win\\chrome.exe",
+  "routes": [
+    "/",
+    "/category",
+    "/detail/cat-town-letter",
+    "/detail/cheer-squad",
+    "/detail/cloud-promise",
+    "/detail/fog-city-detective",
+    "/detail/food-chronicle",
+    "/detail/light-chaser",
+    "/detail/mechanical-heart",
+    "/detail/midnight-radio",
+    "/detail/otherworld-cafe",
+    "/detail/spring-diner",
+    "/detail/star-train",
+    "/detail/sword-kite",
+    "/faq",
+    "/ranking"
+  ],
+  "route_count": 16,
+  "missing_assets": []
+}
